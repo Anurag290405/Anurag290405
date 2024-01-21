@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anurag290405
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development,DSA,Java,C++
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me anuragargawal@gmail.com
 
 <!---
